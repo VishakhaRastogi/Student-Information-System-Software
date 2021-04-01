@@ -12,8 +12,3 @@ The <b>STUDENT INFORMATION SYSTEM</b> allows authorized members to access the re
 - Admin Module
 - Faculty Module
 - Student Module
-
-## Features
-- Admin can register faculty and student
-- Faculty can upload marks and attendance of students
-- Student can view their marks and attendance
